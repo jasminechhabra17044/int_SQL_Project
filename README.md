@@ -61,6 +61,8 @@ QUERY: [3_customer_retention.sql](/Scripts/3_retention_analysis.sql)
 
 ![Customer Retention](/images/3_customer_retention_1.png)
 
+![Customer Retention](/images/3_customer_retention_2.png)
+
 **Key Findings:** 
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.
 - Return rates are consistently low (8-10%) across all cohort, suggesting retention issues are systemic rather than specific to certain years.
@@ -90,7 +92,7 @@ QUERY: [3_customer_retention.sql](/Scripts/3_retention_analysis.sql)
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL
+- **Analysis Tools:** PostgreSQL, DBeaver, PGAdmin
 - **Visualization:** ChatGPT
 
 
